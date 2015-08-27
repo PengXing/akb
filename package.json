@@ -1,0 +1,15 @@
+{
+  "name": "akb",
+  "version": "0.0.0",
+  "description": "akb",
+  "main": "index.js",
+  "keywords": [
+    "akb"
+  ],
+  "author": [
+    "sekiyika"
+  ],
+  "license": "MIT",
+  "dependencies": {
+  }
+}
